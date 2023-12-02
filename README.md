@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Boran, a passionate software developer dedicat
 🔗 Connect with me on LinkedIn: [boran-ozel](https://www.linkedin.com/in/boran-ozel)
 
 ## About Me
-I'm a freelance software developer based in Adana, Turkey, with a Bachelor of Science in Computer Engineering from the California State University of San Bernardino. My journey in the tech world has been driven by my curiosity and passion for AI, neural networks, and innovative software solutions.
+I'm a freelance software developer based in California, with a Bachelor of Science in Computer Engineering from the California State University of San Bernardino. My journey in the tech world has been driven by my curiosity and passion for AI, neural networks, and innovative software solutions.
 
 ## Expertise
 - **Programming Languages**: Proficient in C++, Python, C#, JavaScript, PHP, and HTML/CSS.
