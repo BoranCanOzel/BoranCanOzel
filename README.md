@@ -1,4 +1,4 @@
-# Boran Ozel - AI Enthusiast & Software Developer
+# Boran Can Ozel - AI Enthusiast & Software Developer
 
 Welcome to my GitHub profile! I'm Boran, a passionate software developer dedicated to exploring the limitless possibilities of artificial intelligence and machine learning. I've always dreamed of being at the forefront of technology, and I'm thrilled to be living that dream every day.
 
