@@ -28,7 +28,7 @@ I'm a freelance software developer based in California, with a Bachelor of Scien
 
 ## Education
 - **California State University of San Bernardino** (August 2020 – Present)
-  - B.Sc. in Computer Engineering (GPA: 3.9/4.0)
+  - B.Sc. in Computer Engineering (GPA: 3.75/4.0)
   - Courses in algorithms, data structures, AI, machine learning, programming languages, and more.
 
 ## Key Projects
