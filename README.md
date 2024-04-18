@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Boran, a passionate software developer dedicat
 
 🌐 Visit my website: [www.boranozel.com](https://www.boranozel.com)
 
-📧 Reach me at: brn01ozl.bo@gmail.com
+📧 Reach me at: me@boranozel.com
 
 🔗 Connect with me on LinkedIn: [boran-ozel](https://www.linkedin.com/in/boran-ozel)
 
