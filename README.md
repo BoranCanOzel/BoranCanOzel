@@ -22,7 +22,7 @@ I'm a freelance software developer based in California, with a Bachelor of Scien
   - Developed hardware-emulated object detection software using OpenCV and YOLO with Python and C++.
   - Designed and implemented robust database and security systems to enhance user experience and data integrity.
 
-- **Soft Bae** (August 2020 – March 2022)
+- **Deka Bilisim** (August 2020 – March 2022)
   - Backend Developer
   - Developed and maintained various software solutions, including setting up and managing databases and creating PHP APIs.
 
