@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm Boran, a passionate software developer dedicated to exploring the limitless possibilities of artificial intelligence and machine learning. I've always dreamed of being at the forefront of technology, and I'm thrilled to be living that dream every day.
 
-🌐 Visit my website: [www.boranozel.com](https://www.boranozel.com)
+🌐 Visit my website: [www.boranozel.com](https://www.borancanozel.com)
 
-📧 Reach me at: me@boranozel.com
+📧 Reach me at: boranozel01@gmail.com
 
 🔗 Connect with me on LinkedIn: [boran-ozel](https://www.linkedin.com/in/boran-ozel)
 
